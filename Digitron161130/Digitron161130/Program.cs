@@ -10,7 +10,7 @@ namespace Digitron161130
     class Program
     {
 
-        // komentar Vladimir Zivkovic
+
         // private static double prvaD;
         //  private static int prvaI;
 
