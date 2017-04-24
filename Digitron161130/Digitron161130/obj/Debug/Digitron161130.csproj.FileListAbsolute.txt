@@ -25,3 +25,6 @@ C:\Users\User\Visual studio\Digitron projekat\Radni folder\Digitron161130\Digitr
 C:\Users\User\Visual studio\Digitron projekat\Ovaj program radi  ne menjati\Digitron radi\Digitron161130\Digitron161130\bin\Debug\Digitron161130.exe.config
 C:\Users\User\Visual studio\Digitron projekat\Ovaj program radi  ne menjati\Digitron radi\Digitron161130\Digitron161130\obj\Debug\Digitron161130.exe
 C:\Users\User\Visual studio\Digitron projekat\Ovaj program radi  ne menjati\Digitron radi\Digitron161130\Digitron161130\obj\Debug\Digitron161130.pdb
+C:\Users\Zivkovic Vladimir\Desktop\VladaZ\Digitron161130\Digitron161130\bin\Debug\Digitron161130.exe.config
+C:\Users\Zivkovic Vladimir\Desktop\VladaZ\Digitron161130\Digitron161130\obj\Debug\Digitron161130.exe
+C:\Users\Zivkovic Vladimir\Desktop\VladaZ\Digitron161130\Digitron161130\obj\Debug\Digitron161130.pdb
